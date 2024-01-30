@@ -1,1 +1,2 @@
-# rsa
+# kriptografi-rsa
+Aplikasi Enkripsi dan Dekripsi Teks
